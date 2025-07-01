@@ -1,0 +1,25 @@
+# 📌 Sales Data Analysis - SQL Project
+
+## 📋 Project Summary:
+This project is a basic SQL Data Analysis using three tables:  
+Customers, Products, and Orders.
+
+I used SQL queries to create tables, insert data, and generate simple reports.
+
+## ✅ Tasks Done:
+- Created tables for Customers, Products, Orders  
+- Inserted sample data  
+- Used SELECT, JOIN, GROUP BY, SUM, COUNT queries  
+- Analyzed total sales and customer order details  
+
+## ✅ SQL Topics Used:
+- Create Table  
+- Insert Data  
+- Select Queries  
+- Aggregate Functions  
+- Join  
+- Group By  
+
+## ✅ Tools:
+- SQL Editor (MySQL / SQLite / SSMS)  
+- GitHub for storing project
